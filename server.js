@@ -1,5 +1,4 @@
 const express = require('express');
-const mongoose = require('./mongoose/db');
 const bodyParser = require('body-parser');
 
 const students = require('./routes/students');
